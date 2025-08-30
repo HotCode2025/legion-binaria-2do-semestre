@@ -1,4 +1,4 @@
-package java.clase1.ejemplos;
+package clase1.ejemplos;
 
 class CicloDoWhile {
     public static void main(String[] args) {
