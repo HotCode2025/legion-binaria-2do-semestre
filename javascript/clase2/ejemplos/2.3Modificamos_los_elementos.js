@@ -1,4 +1,6 @@
-// Modificamos los elemtnos del arreglo
+// Modificamos los elementos del arreglo
+const autos = ['Ferrari', 'Renault', 'BMW']; // Esta es la sintaxis moderna
+
 autos [1] = 'Volvo';
 console.log(autos[1]);
 
