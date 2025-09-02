@@ -1,3 +1,4 @@
+console.log("creando un objeto");
 const persona = {
   nombre: "Luis",
   apellido: "Perez",
@@ -7,9 +8,11 @@ const persona = {
 };
 
 // cambiamos dinamicamente el valor de una propiedad del objeto
+console.log("cambiando el valor de la propiedad 'nombre'");
 persona.nombre = "Pedro";
 
 // nota: Si al asignarle un nuevo valor a una propiedad que no existe, se creara una nueva propiedad con el nuevo valor
+console.log("cambiamos y eliminamos un error");
 persona.nombres = "Luis";
 console.log(persona);
 // {
