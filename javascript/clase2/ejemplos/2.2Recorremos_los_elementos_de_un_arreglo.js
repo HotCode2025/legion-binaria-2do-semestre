@@ -1,5 +1,5 @@
 //Recorremos los elementos de un arreglo
-//Traemos de ejercicio anterior
+//Traemos de ejercicio anterior.
 const autos = ['Ferrari', 'Renault', 'BMW']; // Esta es la sintaxis moderna
 
 console.log(autos[0]);
