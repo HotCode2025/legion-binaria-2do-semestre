@@ -1,7 +1,7 @@
 ---
 name: "[EJERCICIO] Breve descripción"
 about: Issue para registrar un ejercicio de la cursada
-title: "[EJERCICIO] <Título del ejercicio>"
+title: "[Número](Lenguaje) Tema del ejercicio"
 assignees: ''
 ---
 
@@ -12,7 +12,7 @@ Resumen breve del enunciado.
 ## Lenguaje
 - [ ] Java  
 - [ ] Python  
-- [ ] JavaScript  
+- [ ] JavaScript
 
 ## Notas (opcional)
 Aclaraciones, dudas o comentarios.

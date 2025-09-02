@@ -1,7 +1,7 @@
 ---
 name: "[EJEMPLO] Tema del ejemplo"
 about: Issue para registrar un ejemplo de la cursada
-title: "[EJEMPLO] Tema del ejemplo"
+title: "[Número](Lenguaje) Tema del ejemplo"
 assignees: ''
 ---
 
@@ -12,7 +12,7 @@ Resumen breve del enunciado.
 ## Lenguaje
 - [ ] Java  
 - [ ] Python  
-- [ ] JavaScript  
+- [ ] JavaScript
 
 ## Notas (opcional)
 Indicar número o numeros de videos dentro de esta tarea
