@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import javax.swing.JOptionPane;
-public class Ejercicio_con_Ciclos_6_Clase_Scanner_y_JOptionPane {
+public class Ejercicio6_con_Ciclos_6_Clase_Scanner_y_JoptionPane {
     public static void main(String[] args) {
         int sumajo = 0;
         int numerojo;
@@ -30,4 +30,3 @@ public class Ejercicio_con_Ciclos_6_Clase_Scanner_y_JOptionPane {
         scanner.close();    
     }
 }
-
