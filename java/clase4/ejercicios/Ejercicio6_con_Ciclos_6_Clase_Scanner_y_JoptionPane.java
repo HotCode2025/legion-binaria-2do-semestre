@@ -1,5 +1,8 @@
 import java.util.Scanner;
 import javax.swing.JOptionPane;
+/*
+ * Ejercicio 6: Pedir números hasta que se teclee un 0, mostrar la suma de todos los números introducidos.
+ */
 public class Ejercicio6_con_Ciclos_6_Clase_Scanner_y_JoptionPane {
     public static void main(String[] args) {
         int sumajo = 0;
