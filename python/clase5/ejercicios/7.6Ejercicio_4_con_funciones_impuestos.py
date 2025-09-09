@@ -9,4 +9,10 @@ def calcimp (monto, impuesto):
     total = monto + monto*(impuesto/100)
     return total
 
-print(f"El monto con impuestos es: {calcimp(1000, 21):.2f}")
+#Con los valores del ejemplo
+#print(f"El monto con impuestos es: {calcimp(1000, 21):.2f}")
+
+monto = int(input("Ingrese el monto sin impuesto: "))
+impuesto = (int(input("Ingrese el porcentaje de impuesto: ")))
+
+print(f"El monto con impuestos es: ${calcimp(monto, impuesto):.2f}")
