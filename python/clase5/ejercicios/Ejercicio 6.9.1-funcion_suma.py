@@ -9,8 +9,8 @@ def sumar_valores(*args):
     return suma
 
 # Pedimos al usuario que ingrese los números separados por espacios
-entrada = input("Ingresa números separados por espacio (máximo 5): ")
-2
+entrada = input("Ingresa números separados por espacio (máximo 10): ")
+
 numeros = [int(x) for x in entrada.split()]
 
 # Definimos el límite de números permitidos
