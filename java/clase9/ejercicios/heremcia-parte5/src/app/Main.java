@@ -11,5 +11,13 @@ public class Main {
         System.out.println(c1);
         System.out.println(c2);
         System.out.println(c3);
+
+        // crear tres clases empleados
+        Empleado e1 = new Empleado(1233);
+        Empleado e2 = new Empleado(2344);
+        Empleado e3 = new Empleado(3455);
+        System.out.println(e1);
+        System.out.println(e2);
+        System.out.println(e3);
     }
 }
