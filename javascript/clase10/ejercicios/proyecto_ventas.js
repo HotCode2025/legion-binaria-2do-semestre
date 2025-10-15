@@ -15,7 +15,7 @@ class Producto {
     return this._nombre;
   }
   set Nombre(nombre) {
-    this._nombre = String(nombre ?? "");
+    this._nombre = nombre;
   }
 
   get Precio() {
@@ -75,9 +75,7 @@ class Orden {
     console.log("Productos:");
     for (let i = 0; i < this._productos.length; i++) {
       const producto = this._productos[i];
-      console.log(
-        i + 1 + ". " + producto.Nombre + " - $" + producto.Precio
-      );
+      console.log(i + 1 + ". " + producto.Nombre + " - $" + producto.Precio);
     }
 
     console.log("Total: $" + this.calcularTotal());
